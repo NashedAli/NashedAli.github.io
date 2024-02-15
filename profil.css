@@ -3,7 +3,7 @@
 }
 
 table {
-    width: 60%; /* Mengurangi lebar tabel agar tidak terlalu lebar */
+    width: 60%; 
     margin: auto;
     border-collapse: collapse;
 }
