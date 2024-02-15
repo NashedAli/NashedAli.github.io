@@ -1,0 +1,44 @@
+.test {
+    margin-top: -100px;
+}
+
+table {
+    width: 60%; /* Mengurangi lebar tabel agar tidak terlalu lebar */
+    margin: auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+td.label {
+    width: 30%; /* Atur lebar kolom label */
+    font-weight: bold; /* Membuat teks label lebih tebal */
+    color: #333; /* Warna teks yang lebih gelap */
+}
+
+td.data {
+    width: 70%; /* Atur lebar kolom data */
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    padding: 0;
+}
+
+p {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
